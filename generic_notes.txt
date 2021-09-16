@@ -3,7 +3,7 @@ Details about all details related to neo4j: https://lju.medium.com/
 
 
 5 day course recordings:
-    Day 1: 
+    Day 1: https://www.youtube.com/watch?v=oO4ZGdq5YP0
     Day 2: https://www.youtube.com/watch?v=1BTCoQ8Wi3w
     Day 3: https://www.youtube.com/watch?v=RcDmuVO33I4
 
