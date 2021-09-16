@@ -1,2 +1,15 @@
 Details about training agenda: https://github.com/JMHReif/nodes2021-aura-training#agenda
 Details about all details related to neo4j: https://lju.medium.com/
+
+
+5 day course recordings:
+    Day 1: 
+    Day 2: https://www.youtube.com/watch?v=1BTCoQ8Wi3w
+    Day 3: https://www.youtube.com/watch?v=RcDmuVO33I4
+
+
+5 Day course presentation decs:
+    Day 1: https://www.slideshare.net/neo4j/training-week-introduction-to-neo4j
+    Day 2: https://www.slideshare.net/neo4j/training-week-introduction-to-neo4j-aura-free
+    Day 3: https://www.slideshare.net/neo4j/training-week-introduction-to-neo4j-bloom
+    
