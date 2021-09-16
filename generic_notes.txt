@@ -1,0 +1,2 @@
+Details about training agenda: https://github.com/JMHReif/nodes2021-aura-training#agenda
+Details about all details related to neo4j: https://lju.medium.com/
