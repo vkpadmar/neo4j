@@ -1,0 +1,46 @@
+= NODES 2021: Neo4j Aura Training
+
+****
+_Updated Sept 13, 2021_
+****
+
+Event page: https://www.meetup.com/Neo4j-Online-Meetup/events/279803237/[Hands-on with Neo4j Aura - training series^]
+
+This repository contains the materials needed for the Neo4j Aura training class (first presented for the NODES 2021 event).
+
+Materials follow the outline of the https://neo4j.com/developer/aura-cloud-dbaas/[Neo4j Aura developer guides^], and the slides will be posted on https://speakerdeck.com/jmhreif/hands-on-with-neo4j-aura-free-tier-nodes-2021-training[SpeakerDeck^].
+
+== Agenda
+* Overview: intro and details
+** Hands-on: create Neo4j Aura Free database
+* Intro to graphs and Neo4j
+* Intro to Neo4j DBaaS (Aura)
+** Hands-on: explore Aura console and instance
+* Import and interact with data
+** Hands-on: Import Venmo data from Github using Cypher
+** Hands-on: visualize with Bloom
+* Connect to the database
+** Hands-on: connect from Neo4j Desktop
+** Hands-on: connect from graph app
+* Access and connect an application
+** Hands-on: connect an application
+* Final questions and wrap-up
+
+== Materials / Resources
+* https://dev.neo4j.com/aura-feedback/[Aura Feature Request / Feedback^]
+* https://dev.neo4j.com/aura-docs/[Aura Documentation^]
+* https://neo4j.com/developer/aura-cloud-dbaas/[Aura Developer Guides^]
+* https://dev.neo4j.com/aura-support/[Aura Support Guides^]
+* https://neo4j.com/developer/aura-cloud-dbaas/[Training class guides^]
+* https://speakerdeck.com/jmhreif/hands-on-with-neo4j-aura-free-tier-nodes-2021-training[Training class slide deck^]
+
+== Contact presenter
+* Name: Jennifer Reif
+* Email: mailto:jennifer.reif@neo4j.com[jennifer.reif@neo4j.com^]
+* Twitter: https://twitter.com/jmhreif[@JMHReif^]
+* LinkedIn: https://www.linkedin.com/in/jmhreif/[jmhreif^]
+
+== June 2021: NODES resource links
+
+* Event page: https://www.meetup.com/Neo4j-Online-Meetup/events/277706971[Hands-on with Neo4j Aura - NODES 2021 training series^]
+* Slides: https://speakerdeck.com/jmhreif/hands-on-with-neo4j-aura-free-tier-nodes-2021-training[SpeakerDeck^]
