@@ -1,4 +1,9 @@
-Details about training agenda: https://github.com/JMHReif/nodes2021-aura-training#agenda
+https://console.neo4j.io/#databases
+User ID: neo4j
+Password: p-aBjMtg4xMK_5jSsH3ooTWcLG_wbSQHarsvqQwNLHg
+
+
+Details about training agenda: https://github.com/JMHReif/nodes2021-aura-training#agenda (Day1)
 Details about all details related to neo4j: https://lju.medium.com/
 
 
@@ -13,3 +18,8 @@ Details about all details related to neo4j: https://lju.medium.com/
     Day 2: https://www.slideshare.net/neo4j/training-week-introduction-to-neo4j-aura-free
     Day 3: https://www.slideshare.net/neo4j/training-week-introduction-to-neo4j-bloom
     
+    
+Design a mapping to merge the data into a single target table using 5 source tables of same table structure without duplicates
+2 tables – Oracle Database
+2 tables – SQL Server
+1 table - Flat file

@@ -1,0 +1,38 @@
+
+
+Relationship between relationsl and graph database: 
+    https://www.freecodecamp.org/news/graph-database-vs-relational-database/
+    https://dev.neo4j.com/rdbms-gdb
+
+Intro to demo graph model using arrow : https://arrows.app/#/local/id=HeVJIy2iFJPxiruArIcF
+
+Cypher query language : declarative, expressive, pattern_matching . Its a pattern matching query language for Graphs. 
+    used to insert or retrieve the database-vs-relational-database/
+ 
+ 
+ User Neo4j via browser to connect to the database. 
+ 
+ 
+Aura: Neo4j on cloud 
+    Always updated with latest version 
+    Aura free is -  available forever 
+    rare/no downtime
+    
+    ne04j-aura.canny.io -- for monitoring related queries 
+
+
+For teh sample database: https://github.com/JMHReif/nodes2021-aura-training
+    from github, loaded the content in the file : load-data.cypher
+
+Training on importing data into neo4j: https://neo4j.com/graphacademy/training-importing-data-40/enrollment/
+
+CALL apoc.meta.graph -> shows you the db schema.
+
+Using bloom: https://neo4j.com/developer/neo4j-bloom/
+https://neo4j.com/developer/graph-apps: Has details about anything related to neo4j or graphapps etc
+https://neo4j.com/developer/aura-connect-driver : shows how to connect to the driver 
+
+
+https://www.loom.com/share/7fb726087ed94a84a646a5cfe6ed80c2: Some tips on bloom
+
+Search phrases: Training 2: http://dev.neo4j.com/bloom-training-2

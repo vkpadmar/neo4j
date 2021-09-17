@@ -1,0 +1,23 @@
+GIT Hub link Day 3: https://github.com/neo4j-graph-examples/recommendations/tree/main/graphql
+
+GraphQL Playground: https://movies.neo4j-graphql.com/
+
+Codesandbox: Used to create thedataset, by creating the nodes, relationships etc. 
+    Contain the graphical playground which is in sync with the datamodel given in Slide 28 . Update the credentials of neo4jAura database connections,  
+https://codesandbox.io/s/github/johnymontana/training-v3/tree/graphql-v2/modules/graphql-apis/supplemental/code/02-graphql-apis-overview-of-neo4j-graphql/begin?file=/.env
+
+.env file
+NEO4J_URI=neo4j+s://8c0a56ff.databases.neo4j.io
+NEO4J_USER=neo4j
+NEO4J_PASSWORD=p-aBjMtg4xMK_5jSsH3ooTWcLG_wbSQHarsvqQwNLHg
+
+
+if executing the playgroun doesnt workm, try refreshing the page or open the playground(https://hfuxh.sse.codesandbox.io/) in new tab 
+
+https://neo4j.com/docs/graphql-manual/current/troubleshooting/
+https://neo4j.com/docs/graphql-manual/current/
+
+
+Arrows App: https://arrows.app/
+
+Here is a blog and talk about @auth https://medium.com/neo4j/securing-your-graph-with-neo4j-graphql-91a2d7b08631

@@ -1,0 +1,12 @@
+Coded for reference: https://github.com/cj2001/nodes2021_kg_workshop
+
+APOC: Awesome Procedures On Cypher: https://neo4j.com/labs/apoc/
+
+You can also open the first colab notebook directly with this link: https://colab.research.google.com/github/cj2001/nodes2021_kg_workshop/blob/master/notebooks/00-populate_basic_graph.ipynb
+
+or use Jupitar notebook : 
+
+
+
+While generating the dataset, use Sandbox, as it does not contain all necessary GDS (Graph Data Science) libraries. 
+https://neo4j.com/product/graph-data-science-library/

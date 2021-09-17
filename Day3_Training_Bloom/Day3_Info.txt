@@ -1,0 +1,31 @@
+Day 3 training agenda and the relationship diagram: https://github.com/lju-lazarevic/bloom/
+
+Aura Free: https://dev.neo4j.com/aura-login
+https://dev.neo4j.com/bloom-training-repo i.e. https://github.com/lju-lazarevic/bloom/
+
+Setting up database
+    Neo4j Sandbox: http://dev.neo4j.com/try i.e.https://neo4j.com/sandbox/?utm_campaign=gdbin60 (https://sandbox.neo4j.com/?_gl=1*1rbmxg3*_ga*MzgxMjY0MzM4LjE2MzE2MjQ2ODE.*_ga_DL38Q8KGQC*MTYzMTcxMDk5Mi45LjEuMTYzMTcxMTY1Ni4w&_ga=2.248645710.812517918.1631624681-381264338.1631624681) 
+    Neo4j Aura free: http://dev.neo4j.com/aura-login
+
+
+In the sandbox environment, click on Open(directly) and enter the query from below dataset/code
+    Query to generate the dataset: http://dev.neo4j.com/bloom-training-1
+
+To view the bloom, use open Neo4j with bloom options
+Credentials for sandboxx:
+    neo4j
+    receipt-initiators-rules
+    
+Check the info about this person, once  neo4j Bloom is opened with above credentials : Maxime Dufour-Lapointe
+
+
+Some sample codes:
+ "MATCH (n) DETACH DELETE n" will delete everything so you can start over.
+ 
+ 
+ Last training: solutions: https://github.com/lju-lazarevic/bloom/
+
+
+If previous sessions are missed: http://dev.neo4j.com/training_catchup 
+
+Free online training and certification: http://dev.neo4j.com/learn
